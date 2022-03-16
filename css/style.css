@@ -503,7 +503,8 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/bg.png") no-repeat;
+  /* bg.png */
+  background: url("../images/bg/bg-temp.png") no-repeat; 
   background-size: cover;
   min-height: 550px;
 }
